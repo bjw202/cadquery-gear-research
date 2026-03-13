@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+
+# CAD output files
+output/
+*.stl
+*.step
+*.iges
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
